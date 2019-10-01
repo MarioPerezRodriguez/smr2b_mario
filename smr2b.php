@@ -1,6 +1,6 @@
-<a href="http://192.168.0.139/smr2b_David/smr2b.html">David</a>
+<a href="http://192.168.0.139/smr2b_David/smr2b.php">David</a>
 Mario
-<a href="http://192.168.0.144/smr2b_fernandoherrero/smr2b.html">Fernando</a>
+<a href="http://192.168.0.123/smr2b_fernandoherrero/smr2b.php">Fernando</a>
 
 <?php
 $f=fopen('visitas.txt','a');
