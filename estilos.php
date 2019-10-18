@@ -2,28 +2,7 @@
 <html lang="es">
 <head>
 <title>Web de Mario</title>
-<style>
-body{
-	background-color:pink;
-}
-h2{
-	color:green;
-}
-h4{
-	color:pink;
-	font-size:.9em;	
-}
-table,tr,td{
-	border: 1px solid black;
-}
-.quijote{
-	text-align:center;
-}
-.enfasis{
-	font-weight:bold;
-	text-decoration: underline;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="estilos.css">
 </head>
 <body >
 <h1>Documento HTML de Mario<h1>
